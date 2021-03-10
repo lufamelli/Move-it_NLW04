@@ -18,8 +18,6 @@ The application proposes a healthy solution to people that spend the most of the
 
 # How to execute the project
 
-## Front end web
-
 Precondition : npm / yarn
 
 ```bash
